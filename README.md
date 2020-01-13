@@ -3,7 +3,7 @@
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
-## :arrow_up: How to Setup
+## How to Setup
 
 **Step 1:** git clone this repo:
 
@@ -14,13 +14,13 @@
 **Step 4:** Install expo with `$ npm i expo -g`
 
 
-## :arrow_forward: How to Run App
+## How to Run App
 
 1. cd to the repo
 2. Run Build for either OS
   * run `expo start`
 
-## :arrow_forward: Features List
+## Features List
 
 1. Top Cities List
 2. Search for Top cities
